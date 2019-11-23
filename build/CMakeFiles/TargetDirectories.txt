@@ -1,0 +1,3 @@
+/data/telloproject-seongbin-im/build/CMakeFiles/rebuild_cache.dir
+/data/telloproject-seongbin-im/build/CMakeFiles/TelloPro.dir
+/data/telloproject-seongbin-im/build/CMakeFiles/edit_cache.dir
