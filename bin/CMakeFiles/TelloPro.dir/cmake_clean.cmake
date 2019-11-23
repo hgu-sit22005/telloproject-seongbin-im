@@ -10,8 +10,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/TelloPro.dir/src/cw.cpp.o"
   "CMakeFiles/TelloPro.dir/src/ccw.cpp.o"
   "CMakeFiles/TelloPro.dir/src/python_interface.cpp.o"
-  "../bin/TelloPro.pdb"
-  "../bin/TelloPro.so"
+  "TelloPro.pdb"
+  "TelloPro.so"
 )
 
 # Per-language clean rules from dependency scanning.

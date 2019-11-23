@@ -51,7 +51,7 @@ EQUALS = =
 CMAKE_SOURCE_DIR = /data/telloproject-seongbin-im
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /data/telloproject-seongbin-im/build
+CMAKE_BINARY_DIR = /data/telloproject-seongbin-im/bin
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -80,9 +80,9 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /data/telloproject-seongbin-im/build/CMakeFiles /data/telloproject-seongbin-im/build/CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /data/telloproject-seongbin-im/bin/CMakeFiles /data/telloproject-seongbin-im/bin/CMakeFiles/progress.marks
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /data/telloproject-seongbin-im/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /data/telloproject-seongbin-im/bin/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
